@@ -11,7 +11,7 @@
 
 Para eliminar líneas en Blanco de un archivo de texto, podriamos utilizar *sed*.
 
-[[./images-blog/sed.png]]
+[[../images-blog/sed.png]]
 
 
 =cat archivo | sed '/^ *$/d' > nuevo_archivo=
